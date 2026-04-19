@@ -5,7 +5,7 @@ This project analyzes tumor characteristics and builds a machine learning model 
 as benign or malignant.
 
 ## Dataset
-- Source: Kaggle (Erdemtaha Cancer Dataset)
+- Source: Kaggle (Erdemtaha Cancer Dataset) : https://www.kaggle.com/datasets/erdemtaha/cancer-data
 - ~570 samples
 - 30 numerical features
 - Target: Diagnosis (M = Malignant, B = Benign)
